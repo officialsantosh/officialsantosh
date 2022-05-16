@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-end development.
 - 🌱 I’m currently learning JavaScript, Python and React JS and so on.
 - 💞️ I’m seeking a challenging position in a reputed organization where I can learn new skills, expand my knowledge, leverage my learning, and contribute to organization growth.
-- 📫 My LinkedIn I'd is https://www.linkedin.com/in/Santosh-chaudhary-68b297178/
+- 📫 My LinkedIn I'd is https://www.linkedin.com/in/santoshcy7/
 
 <!---
 officialsantosh/officialsantosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
